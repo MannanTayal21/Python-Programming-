@@ -1,1 +1,0 @@
-# write a python code to calculate the length of a string without using built-in len() function.
